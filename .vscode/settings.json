@@ -1,0 +1,884 @@
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
+"workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Cobalt2",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.multiCursorModifier": "alt",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelScrollSensitivity": 3,
+    
+    "editor.parameterHints.enabled": true,
+    "window.zoomLevel": 1,
+    "explorer.openEditors.visible": 5,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true,
+    "editor.lineHeight": 15,
+    "editor.parameterHints": false,
+    "html.suggest.html5": false,
+    "editor.selectionHighlight": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.definitionLinkOpensInPeek": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    
+    "workbench.colorCustomizations": {
+           "editor.fontFamily": "Forum",
+"editor.fontLigatures": true,
+        "editorCursor.foreground": "#f80361",
+        "terminalCursor.foreground": "#dfc5f0d3",
+         "foreground": "#e6e5eb",
+        "editor.lineHighlightBackground": "#1082f571",
+    "editor.selectionBackground": "#f823239d",// Текущий выделенный текст
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    
+
+    "editor.tabSize": 3,
+    "editor.hover.delay": 100,
+    "editor.letterSpacing": 3,
+    "editor.fontWeight": "300",
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 50,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 1,
+    "window.autoDetectColorScheme": true,
+    "editor.renderWhitespace": "all",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // отключает все подсказказки
+    // "editor.hover.enabled": false,
+    "editor.fontFamily": "",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.maxComputationTime": 100,
+    "diffEditor.renderSideBySide": true,
+}
