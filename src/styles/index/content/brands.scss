@@ -1,0 +1,138 @@
+@import "common/mixins";
+
+.brands {
+  &__rev {
+    .brands__column {
+      order: 1;
+
+      &_b {
+        order: 2;
+      }
+    }
+  }
+
+  &__row {
+    @include flex();
+
+  }
+
+  &__column {
+    flex: 0 1 33.333333%;
+    position: relative;
+    
+    &_b {
+      flex: 0 1 66.66666%;
+    }
+  }
+
+  &__content {
+    min-height: 400px;
+    padding: 70px 65px 55px 65px;
+    position: relative;
+
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: -10px;
+      left: 50%;
+      margin: 0px 0px 0px -10px;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 10px solid #fff;
+    }
+  }
+
+  &__image {
+    padding: 0px 0px 37% 0px;
+  }
+
+  @media screen and (max-width: 1500px) {
+    &__content {
+      padding: 50px 35px 35px 35px;
+    }
+  }
+
+  @media screen and (max-width: 1100px) {
+    &__row {
+      @include fdc();
+    }
+    &__last{
+      .brands__column{
+        &:nth-child(1){order: 2;}
+        &:nth-child(2){order: 1;}
+        &:nth-child(3){order: 3;}
+
+      }
+    }
+  }
+
+  
+}
+
+.item {
+  height: 100%;
+  display: block;
+  position: relative;
+
+  &__logo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #64c29e63;
+    @include center();
+    @include anim(0.2s);
+    opacity: 0;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  &__image {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+
+  @media screen and (max-width: 1100px) {
+    height: auto;
+    padding: 0px 0px 70% 0px;
+  }
+}
+
+.block__text_j {
+  text-align: justify;
+  @include Text-Style-10;
+
+  &:after {
+    content: "";
+    display: block;
+    margin: 35px auto 0px auto;
+    width: 50px;
+    height: 1px;
+    background-color: $dark-grey-two;
+  }
+
+  @media screen and (max-width: 1500px) {
+    &:after {
+      margin: 15px auto 0px auto;
+    }
+  }
+}
+.brands__block{
+  height: 100%;
+  display: block;
+  position: relative;
+}
+
+
+
+
+
